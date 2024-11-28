@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(63, 63, 63);
+  }
+  .card{
+    background-color: rgb(63, 63, 63);
+  }
+  header, .ft{
+    background-size: cover;
+    background-image: url(imagenes/F.gif);
+  }
+  
+  h3,
+  h4 {
+    color: rgb(255, 217, 0);
+  }
